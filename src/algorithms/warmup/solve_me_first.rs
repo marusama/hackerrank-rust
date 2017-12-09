@@ -11,7 +11,7 @@ Code that prints the sum calculated and returned by solveMeFirst is provided for
 use std::io;
 
 #[allow(unused)]
-pub fn run() {
+pub fn main() {
     // variable declaration
     let mut _num_str_1 = String::new();
     let mut _num_str_2 = String::new();
